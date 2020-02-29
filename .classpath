@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="resorues"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-11">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/httpcomponents-client-4.5.9/lib/httpclient-4.5.9.jar"/>
+	<classpathentry kind="lib" path="D:/httpcomponents-client-4.5.9/lib/httpcore-4.4.11.jar"/>
+	<classpathentry kind="lib" path="D:/spring-framework-5.1.9.RELEASE/libs/spring-beans-5.1.9.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/spring-framework-5.1.9.RELEASE/libs/spring-context-5.1.9.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/spring-framework-5.1.9.RELEASE/libs/spring-core-5.1.9.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/spring-framework-5.1.9.RELEASE/libs/spring-expression-5.1.9.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/jsoup-1.12.1.jar"/>
+	<classpathentry kind="lib" path="D:/mybatis-3.5.2/mybatis-3.5.2.jar"/>
+	<classpathentry kind="lib" path="D:/mybatis-3.5.2/mybatis-spring-2.0.2.jar"/>
+	<classpathentry kind="lib" path="D:/mybatis-3.5.2/lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/5"/>
+	<classpathentry kind="lib" path="D:/spring-framework-5.1.9.RELEASE/libs/spring-jdbc-5.1.9.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/spring-framework-5.1.9.RELEASE/libs/spring-tx-5.1.9.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/spring-framework-5.1.9.RELEASE/libs/spring-aop-5.1.9.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/mybatis-3.5.2/lib/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="D:/mybatis-3.5.2/lib/log4j-api-2.11.2.jar"/>
+	<classpathentry kind="lib" path="D:/mybatis-3.5.2/lib/log4j-core-2.11.2.jar"/>
+	<classpathentry kind="lib" path="E:/maven/localRepository/mysql/mysql-connector-java/8.0.17/mysql-connector-java-8.0.17.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
